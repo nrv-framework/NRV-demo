@@ -1,2 +1,4 @@
-#!/usr/bin/python
-import nrv #forcing the neuron mod files compilation
+#!/bin/bash
+set -euo pipefail
+
+python first_import.py
