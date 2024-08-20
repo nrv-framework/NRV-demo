@@ -1,4 +1,4 @@
 #!/bin/bash
 set -euo pipefail
 
-python first_import.py
+python -c "import nrv"
