@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python==3.12
   - pip
+  - pandas
   - fenics-dolfinx==0.8.0 
   - mpich
   - nbgitpuller
